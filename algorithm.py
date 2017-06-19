@@ -1,4 +1,5 @@
 class Optimizing(object):
+
     """Object from these class can find shortest (fastest way) between Cities. It can be usefull for optimizing network 
     routing. For defined topology, we can find best connection ex. City A -> City B. It's a script for extra exercise
     for Student Project 'Desing and Implement Network for company with 6 department and within 1  Central Department
